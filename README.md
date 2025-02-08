@@ -34,6 +34,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/enzo931/enzo931/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/enzo931/snake.yml" alt="Snake animation" />
 
 ###
