@@ -1,7 +1,7 @@
 <h1 align="left">Olá 👋! Meu nome é Enzo Manzoni e esse é meu perfio no GitHub</h1>
 
 <div align="center">
-  <img height="100" src="https://github.com/user-attachments/assets/0ed013b6-2185-40f3-9287-5338f79789c8"  />
+  <img height="500" src="https://github.com/user-attachments/assets/0ed013b6-2185-40f3-9287-5338f79789c8"  />
 </div>
 
 <div align="center">
