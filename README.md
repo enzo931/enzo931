@@ -1,7 +1,7 @@
 <h1 align="left">Olá 👋! Meu nome é Enzo Manzoni e esse é meu perfio no GitHub</h1>
 
 <div align="center">
-  <img height="1000" src="C:\Users\PICHAU\Documents\profissional\perfio"  />
+  <img height="100" src="C:\Users\PICHAU\Documents\profissional\perfio"  />
 </div>
 
 <div align="center">
