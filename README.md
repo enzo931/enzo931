@@ -1,7 +1,6 @@
 <h1 align="left">Olá 👋! Meu nome é Enzo Manzoni e esse é meu perfio no GitHub</h1>
 <br>
 <h2>Sou um estudante de programação do ensino médio e futuramente quero trabalhar como programador front-end, em meus projetos uso tecnologias como html, css e JavaScript, e uso IAs generativas para me auxiliar nesses projetos</h2>
-<br>
 
 <div align="center">
   <img height="200" src="https://github.com/user-attachments/assets/0ed013b6-2185-40f3-9287-5338f79789c8"  />
