@@ -1,4 +1,4 @@
-<h1 align="left">Olá 👋! Meu nome é Enzo Manzoni e esse é meu perfio no GitHub</h1>
+<h1 align="left">Olá 👋! Meu nome é Enzo Manzoni e esse é meu perfil no GitHub</h1>
 <h2>Sou um estudante de programação do ensino médio e futuramente quero trabalhar como programador front-end, em meus projetos uso tecnologias como html, css e JavaScript, e uso IAs generativas para me auxiliar nesses projetos</h2>
 <div align="center">
   <br><br><br>
