@@ -2,7 +2,7 @@
 <h2>Sou um estudante de programação do ensino médio e futuramente quero trabalhar como programador front-end, em meus projetos uso tecnologias como html, css e JavaScript, e uso IAs generativas para me auxiliar nesses projetos</h2>
 <div align="center">
    <br><br><br>
-  <img height="200" broder-radius="10px" src="https://github.com/user-attachments/assets/0ed013b6-2185-40f3-9287-5338f79789c8"  />
+  <img height="200" broder-radius="10px" src="https://github.com/user-attachments/assets/0ed013b6-2185-40f3-9287-5338f79789c8"/>
 </div>
 
 <div align="center">
