@@ -1,7 +1,8 @@
 <h1 align="left">Olá 👋! Meu nome é Enzo Manzoni e esse é meu perfil no GitHub</h1>
 <h2>Sou um estudante de Análise e Desenvolvimento de Sistemas com foco em Desenvolvimento de Software, unindo o ecossistema web (HTML, CSS e JavaScript) à lógica de programação, automação e análise de dados com Python.</h2>
+<h2>Site de Portifólio : https://enzo931.github.io/portfolio/</h2>
 <div align="center">
-   <br><br><br>
+<br><br>
 <img width="1792" height="449"  border_radius = "10px" hide_border= "false" alt="Image" src="https://github.com/user-attachments/assets/34328dd7-dbef-4a3e-98fb-8d2612f428c4" />
 </div>
 
@@ -47,3 +48,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/enzo931/enzo931/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/enzo931/enzo931/output/github-contribution-grid-snake.svg">
 </picture>
+
+
